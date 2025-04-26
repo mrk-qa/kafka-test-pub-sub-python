@@ -46,6 +46,10 @@ Este projeto é uma aplicação de testes automatizados para filas de mensageria
 5. **Acessar o Kafdrop (opcional)**:
    - O Kafdrop estará disponível em [http://localhost:9000](http://localhost:9000) para visualizar os tópicos e mensagens no Kafka.
 
+<div align="center">
+  <img src="assets/kafdrop.png" alt="Exemplo do Kafdrop" width="600" />
+</div>
+
 6. **Parar os serviços do Docker**:
    - Após finalizar os testes, pare os serviços do Docker:
      ```bash
