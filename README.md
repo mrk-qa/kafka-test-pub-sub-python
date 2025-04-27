@@ -50,6 +50,10 @@ Este projeto é uma aplicação de testes automatizados para filas de mensageria
   <img src="assets/kafdrop.png" alt="Exemplo do Kafdrop" width="600" />
 </div>
 
+<div align="center">
+  <img src="assets/kafka-messages.png" alt="Exemplo do Kafdrop" width="600" />
+</div>
+
 6. **Parar os serviços do Docker**:
    - Após finalizar os testes, pare os serviços do Docker:
      ```bash
